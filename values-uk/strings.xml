@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">Дякую!</string>
+    <string name="toppings">Вміст</string>
+    <string name="quantity">Кількість:</string>
+    <string name="total">Всього: $</string>
+    <string name="whipped_cream">Додати збиті вершки?</string>
+    <string name="chocolate">Додати шоколад?</string>
+    <string name="hint_name">Додайте Им`я</string>
+    <string name="quantity_main">Кількість:</string>
+    <string name="order_button_main">Замовити</string>
+    <string name="chocolate_main">Шоколад</string>
+    <string name="whipped_cream_main">Збиті вершки</string>
+</resources>
